@@ -1,0 +1,7 @@
+# 本地输入/输出（按需自测，不入库）
+in/
+out_prop/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
